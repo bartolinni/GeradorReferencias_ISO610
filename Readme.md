@@ -1,0 +1,1 @@
+Este simples gerador serve para criar referências e citações em acordo com a ISO 690 de 2010
